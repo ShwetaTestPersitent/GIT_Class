@@ -12,3 +12,4 @@ change 3 :change made to check rebase on remote master by teammate
 
 change 4 : made on local master to test rebase for feature login
 
+change 5 : to test stash now completed
