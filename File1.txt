@@ -2,4 +2,8 @@
 to do change on remote repo by team mate to test pull
 
 branch test
- change : made by team mate on master to test 2 way merging
+
+change 1: made by team mate on master to test 2 way merging
+
+change 2 : test branch conflict team mate commit
+
